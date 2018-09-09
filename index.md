@@ -25,7 +25,7 @@ Currently, we are under development to create a blog as well as an e-commerce st
 However, it has been a journey, especially when we have a road plan of what we would like to do in the future.
 </p>
 
-<iframe width="420" height="315" src="assets/vid/main_video.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="350" src="assets/vid/main_video" frameborder="0" allowfullscreen></iframe>
 
 <b>A further note about Louisiana Clean Air</b>
 

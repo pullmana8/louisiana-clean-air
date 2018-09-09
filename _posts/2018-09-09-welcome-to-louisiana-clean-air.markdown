@@ -5,7 +5,9 @@ date:   2018-09-09 12:26:20 -0500
 categories: louisiana clean deployment
 ---
 
-[logo](/assets/img/hyla_logo.png)
+<center>
+  <img src="/assets/img/hyla_logo.jpg" height="30%" width="30%">
+</center>
 
 Good morning!
 
