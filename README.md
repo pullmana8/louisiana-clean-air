@@ -1,9 +1,9 @@
-### Louisiana Clean
+### Louisiana Clean Air
 #### Better Air, Healthier Life
 
 What is a better way to have clean air in your home?
 
-Contact us @ thamarsai.caldwell@louisianaca.com or antonette.caldwell@louisianaca.com for more information regarding these products.
+Contact us at thamarsai.caldwell@louisianaca.com or antonette.caldwell@louisianaca.com for more information regarding these products.
 
 Currently, we are under development to create a blog as well as an e-commerce style website to showcase the HYLA products.
 
