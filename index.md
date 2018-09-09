@@ -20,7 +20,11 @@ However, it has been a journey, especially when we have a road plan of what we w
 We have a current location in Shreveport, LA located on North Market. However, to better showcase these products, we are going to open up another location in roughly 6 months to 1 year timeframe. The reason is, we would like to help our current customers and future customers learn more about our products in person.
 
 Path to Completion
+
 Showcase products in gallery (add gallery page, and pictures)
+
 Develop a system to schedule appointments easily through embedded calendar
+
 Text message bot to be able to reschedule appointments if needed
+
 Open second location for showcase of products in person
