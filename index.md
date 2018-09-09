@@ -35,7 +35,10 @@ However, it has been a journey, especially when we have a road plan of what we w
 <b>Contact us!</b>
 
 Contact one of us, [Tee](thamarsai.caldwell@louisianaca.com) or [Antonette](antonette.caldwell@louisianaca.com) for more information regarding these products.
+
+
 <b>Location</b>
+
 <p>
 We have a current location in Shreveport, LA located on North Market. However, to better showcase these products, we are going to open up another location in roughly 6 months to 1 year time frame. The reason is, we would like to help our current customers and future customers learn more about our products in person.
 </p>
