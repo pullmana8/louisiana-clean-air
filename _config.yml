@@ -42,3 +42,9 @@ plugins:
 header_pages:
   - about.md
   - gallery.md
+  - cleanairsystem.md
+  - cleanairfreshener.md
+  - vacuum.md
+  - support.md
+  - contact.md
+  - terms.md

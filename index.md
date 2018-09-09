@@ -14,7 +14,7 @@ layout: home
 <b>Description</b>
 
 <p>
-This is the current news site, where we can provide updates on our progress. Each of the post will demonstrate the update from what we have achieved, and as well as what we are focusing on to improve our services to you.
+This is a brand site, where we can provide updates on our progress. Each of the post will demonstrate the update from what we have achieved, and as well as what we are focusing on to improve our services to you.
 </p>
 
 <p>
@@ -25,14 +25,14 @@ Currently, we are under development to create a blog as well as an e-commerce st
 However, it has been a journey, especially when we have a road plan of what we would like to do in the future.
 </p>
 
-<iframe width="500" height="350" src="assets/vid/main_video" frameborder="0" allowfullscreen></iframe>
+<iframe width="550" height="450" src="assets/vid/main_video" frameborder="0" allowfullscreen></iframe>
 
 <b>A further note about Louisiana Clean Air</b>
 
 <p>
   <i>What is a better way to have clean air in your home?</i>
 </p>
-<p>I am sure you have asked yourself this question, especially when you have a family that you are taking care of, and you want to make sure that your children are healthy.
+<p>I am sure you have asked yourself this question, especially when you have a family that you are taking care of, and you want to make sure that your children are healthy. Experience using our EST HYLA Air Purification system that will take in the air inside your home, and change it into clean air. If you have allergens, whether you or your family, this product can benefit you best because it can lower the percentage of dust in your home by 80% overtime.
 </p>
 
 <b>Contact us!</b>
@@ -51,3 +51,4 @@ We have a current location in Shreveport, LA located on North Market. However, t
 2. Develop a system to schedule appointments easily through embedded calendar
 3. Text message bot to be able to reschedule appointments if needed
 4. Open second location for showcase of products in person
+5. Set up booths from time to time to showcase the products
