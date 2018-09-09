@@ -5,7 +5,7 @@
 layout: home
 ---
 
-[Logo](assets/img/hyla_logo.png]
+![hyla_logo](/assets/img/hyla_logo.png)
 
 ### Louisiana Clean Air, Better Air, Healthier Life
 
