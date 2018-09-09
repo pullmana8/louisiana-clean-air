@@ -4,10 +4,12 @@
 
 layout: home
 ---
+<center>
+  <img src="/assets/img/hyla_logo.jpg" height="45%" width="45%">
+</center>
 
-![hyla_logo](/assets/img/hyla_logo.png)
-
-### Louisiana Clean Air, Better Air, Healthier Life
+### Louisiana Clean Air
+### Better Air, Healthier Life
 
 #### Description
 
@@ -25,7 +27,7 @@ Contact one of us, [Tee](thamarsai.caldwell@louisianaca.com) or [Antonette](anto
 
 
 #### Location
-We have a current location in Shreveport, LA located on North Market. However, to better showcase these products, we are going to open up another location in roughly 6 months to 1 year timeframe. The reason is, we would like to help our current customers and future customers learn more about our products in person.
+We have a current location in Shreveport, LA located on North Market. However, to better showcase these products, we are going to open up another location in roughly 6 months to 1 year time frame. The reason is, we would like to help our current customers and future customers learn more about our products in person.
 
 #### Path to Completion
 1. Showcase products in gallery (add gallery page, and pictures)
