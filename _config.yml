@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Louisiana Clean Air
-email: antonette.caldwell@louisianaca.com / thamarsai.caldwell@louisianaca.com
+email: antonette.caldwell@louisianaca.com
 description: >- # this means to ignore newlines until "baseurl:"
   Better Air, Healthier Life
 baseurl: "" # the subpath of your site, e.g. /blog
