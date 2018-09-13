@@ -14,7 +14,7 @@ layout: home
 <b>Description</b>
 
 <p>
-This is a brand site, where we can provide updates on our progress. Each of the post will demonstrate the update from what we have achieved, and as well as what we are focusing on to improve our services to you.
+This is brand new site where we can provide updates on our progress. Each of the post will demonstrate the update from what we have achieved, and as well as what we are focusing on to improve our services to you.
 </p>
 
 <p>
@@ -25,7 +25,7 @@ Currently, we are under development to create a blog as well as an e-commerce st
 However, it has been a journey, especially when we have a road plan of what we would like to do in the future.
 </p>
 
-<iframe width="550" height="450" src="assets/vid/main_video" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="550" height="450" src="assets/vid/main_video" frameborder="0" allowfullscreen></iframe> -->
 
 <b>A further note about Louisiana Clean Air</b>
 
